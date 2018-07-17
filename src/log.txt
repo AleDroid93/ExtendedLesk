@@ -1,0 +1,90 @@
+
+==========Parola: piante
+Frase: I platani sono piante ad alto fusto , organismi viventi : non ha senso toglierli per fare posto a un parcheggio
+Miglior senso trovato: flora
+Definizione: Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo.
+==========
+==========Parola: testa
+Frase: La testa della struttura di parsing è l’ elemento che corrisponde al sintagma più alto dell’ albero ; in genere si tratta di un verbo
+Miglior senso trovato: Pseudanthium
+Definizione: Lo pseudanthium o testa di fiore è un tipo speciale di infiorescenza, in cui numerosi fiori sono raggruppati insieme per formare una struttura a fiore.
+==========
+==========Parola: cavallo
+Frase: Amo andare a cavallo , ogni mattino , nel parco
+Miglior senso trovato: cavallo
+Definizione: Grande quadrupede domestico, con lunghi arti, testa allungata, criniera e folta coda, largamente diffuso, allevato per vari scopi, specialmente come cavalcatura o animale da tiro
+==========
+==========Parola: pianta
+Frase: Non riesce ad appoggiare la pianta del piede perché ha un profondo taglio vicino all’ alluce
+Miglior senso trovato: pianta_del_piede
+Definizione: La pianta del piede o superficie plantare del piede è, nell'uomo in posizione ortostatica, la superficie inferiore del piede.
+==========
+==========Parola: cavallo
+Frase: Il cavallo di questi calzoni è troppo basso per la mia taglia
+Miglior senso trovato: cavallo
+Definizione: Grande quadrupede domestico, con lunghi arti, testa allungata, criniera e folta coda, largamente diffuso, allevato per vari scopi, specialmente come cavalcatura o animale da tiro
+==========
+==========Parola: cavalli
+Frase: La mia macchina ha 120 cavalli di potenza
+Miglior senso trovato: cavallo
+Definizione: Grande quadrupede domestico, con lunghi arti, testa allungata, criniera e folta coda, largamente diffuso, allevato per vari scopi, specialmente come cavalcatura o animale da tiro
+==========
+==========Parola: testa
+Frase: Si tratta di un uomo facilmente riconoscibile : ha una testa piccola , gli occhi sporgenti , naso adunco e piccole orecchie a sventola
+Miglior senso trovato: testa
+Definizione: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+==========
+==========Parola: rombo
+Frase: Il rombo è un pesce di mare ; porta entrambi gli occhi su di un lato , nella fattispecie il sinistro , ed ha il lato privo di occhi roseo e senza pigmenti ; ha la tipica forma quadrangolare
+Miglior senso trovato: rombo
+Definizione: Figura geometrica a quattro lati
+==========
+==========Parola: fattore
+Frase: Il fattore dirige la coltivazione dei campi per conto dei proprietari
+Miglior senso trovato: influenza
+Definizione: Fenomeno cognitivo che riguarda la natura, la magnitudine o la durata di una conseguenza.
+==========
+==========Parola: testa
+Frase: Come per tutte le cose , bisogna usare la testa , una punta di cervello , per non prendere decisioni fuori dal senso dell’ intelletto
+Miglior senso trovato: testa
+Definizione: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+==========
+==========Parola: fattori
+Frase: I due fattori dell’ espressione devono soddisfare la proprietà di essere primi fra loro
+Miglior senso trovato: fattore
+No value present
+==========Parola: cavallo
+Frase: Mi manca poco per concludere il lavoro : sono quasi a cavallo
+Miglior senso trovato: cavallo
+Definizione: Grande quadrupede domestico, con lunghi arti, testa allungata, criniera e folta coda, largamente diffuso, allevato per vari scopi, specialmente come cavalcatura o animale da tiro
+==========
+==========Parola: fattore
+Frase: Il fattore principale del suo successo è la sua attitudine analitica
+Miglior senso trovato: influenza
+Definizione: Fenomeno cognitivo che riguarda la natura, la magnitudine o la durata di una conseguenza.
+==========
+==========Parola: rombo
+Frase: Ognuna delle 32 sezioni in cui si divide la rosa della bussola , e che corrispondono alle principali direzioni del vento , si dice rombo
+Miglior senso trovato: rombo_(strumento_musicale)
+Definizione: Il rombo è un antico strumento musicale rituale, usato in tutto il mondo per la caccia e per riti tribali.
+==========
+==========Parola: cavallo
+Frase: In palestra sono bravissima nel saltare il cavallo
+Miglior senso trovato: cavallo
+Definizione: Grande quadrupede domestico, con lunghi arti, testa allungata, criniera e folta coda, largamente diffuso, allevato per vari scopi, specialmente come cavalcatura o animale da tiro
+==========
+==========Parola: rombo
+Frase: Il rombo è una figura geometrica i cui quattro lati hanno la stessa lunghezza
+Miglior senso trovato: rombo
+Definizione: Figura geometrica a quattro lati
+==========
+==========Parola: pianta
+Frase: La pianta dell' alloggio è disponibile in ufficio , accanto all' appartamento ; dal disegno è possibile cogliere i dettagli dell' architettura dello stabile , sulla distribuzione dei vani e la disposizione di porte e finestre
+Miglior senso trovato: pianta_(architettura)
+Definizione: In architettura, la pianta o icnografia è un tipo specifico di disegno architettonico ridotto in scala, in particolare si tratta di una sezione orizzontale del manufatto eseguita ad un livello significativo, come quello dei vani finestre e porte, e poi proiettata con direzione ortogonale su un piano di riferimento orizzontale, coincidente spesso con quello di calpestato.
+==========
+==========Parola: rombo
+Frase: Le vettovaglie caddero , producendo un rumore sordo , profondo e cupo, simile al rombo di un tuono
+Miglior senso trovato: rombo
+Definizione: Rumore cupo e sordo
+==========
